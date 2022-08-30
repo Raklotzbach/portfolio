@@ -1,3 +1,16 @@
+# React Portfolio Project
+
+# Link
+
+https://react-portfolio-akira.herokuapp.com/
+
+# Screenshot
+
+![image](./src/images/ReactPortfolio.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
