@@ -1,0 +1,17 @@
+footer {
+    background: rgb(133, 132, 130);
+    height: 50px;
+    align-items: center;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.6;
+    margin-bottom: 40px;
+    
+};
+
+
+
